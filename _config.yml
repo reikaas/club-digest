@@ -1,0 +1,13 @@
+# Site settings for Klubbdigest.
+# Replace BUTTONDOWN_USERNAME below with the Buttondown username
+# once the newsletter account is created. This is the only place
+# that value is set. The subscribe form posts to:
+# https://buttondown.com/api/emails/embed-subscribe/<buttondown_username>
+
+site_name: "Klubbdigest – Kristiansand & Oslo"
+site_tagline: "Weekly club nights in Kristiansand and Oslo"
+site_url: "https://reikaas.github.io/club-digest"
+description: "A weekly digest of dance and club nights in Kristiansand and Oslo — house, tech house, techno, disco and the groovy in-between."
+timezone: "Europe/Oslo"
+github_repo: "reikaas/club-digest"
+buttondown_username: "BUTTONDOWN_USERNAME"
